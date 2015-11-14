@@ -1,0 +1,23 @@
+name: Rally HR
+favicon: null
+layout_spectrum: 0.11918779322877526
+typography_spectrum: 0.26033667754381895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6575913382694125
+  lightness: 0.06829674867913127
+  saturation: 0.5716097063850611
+  rhythmicContrast: 0.4938200698234141
+purpose: []
